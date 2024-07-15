@@ -108,32 +108,32 @@ export const testimonials = [
   {
     quote:
       "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Upwork Client ",
+    title: "Founder  at Innovative Web Solutions",
   },
   {
     quote:
       "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Upwork Client ",
+    title: "Founder  at Innovative Web Solutions",
   },
   {
     quote:
       "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Upwork Client ",
+    title: "Founder  at Innovative Web Solutions",
   },
   {
     quote:
       "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Upwork Client ",
+    title: "Founder  at Innovative Web Solutions",
   },
   {
     quote:
-      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack. He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
+    name: "Upwork Client",
+    title: "Founder  at Innovative Web Solutions",
   },
 ];
 
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: "1",
     img: "/git.svg",
+    link: "https://github.com/dhanushramudri",
   },
   {
     id: "2",
     img: "/twit.svg",
+    link: "https://twitter.com/Dhanush_Ramudri",
   },
   {
     id: "3",
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/dhanush-ramudri-09392124b/",
   },
 ];
