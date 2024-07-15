@@ -6,7 +6,10 @@ import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 const Footer = () => {
   return (
-    <footer className="w-full pt-20 pb-10 text-blue-100 " id="contact ">
+    <footer
+      className="w-full md:mb-5 mb-[100px] pb-5 text-blue-100 "
+      id="contact "
+    >
       <div className="flex flex-col items-center ">
         <h1 className="heading lg:max-w-[45vw]">
           Ready to take <span className="text-purple">your</span>digital
@@ -24,7 +27,7 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex lg:my-16 gap-2.5 md:flex-row  flex-col justify-between items-center ">
+      <div className="flex lg:my-10 gap-2.5 md:flex-row  flex-col justify-between items-center ">
         <p className="md:text-base text-sm md:font-normal font-light ">
           Copyright ©2024 Dhanush
         </p>
