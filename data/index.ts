@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Dhanush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Dhanush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Dhanush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Dhanush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Dhanush was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Dhanush is a young and super flexible developer with expertise in the MERN stack, He goes beyond expectations to deliver top-notch results. Allowing him the necessary time, considering he is a student, enhances the quality of outcomes.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
